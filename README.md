@@ -27,9 +27,9 @@ A Java implementation of the classic Flappy Bird game using JavaFX. This project
 
 ## Installation
 
-1. Download the game here: https://drive.google.com/drive/folders/1gsIW3Ho5jIgPAd7WvVKg_SlPoMAJzWJ4?usp=drive_link
-2. extract it
-3. run it
+1. Download the game from: https://drive.google.com/drive/folders/1gsIW3Ho5jIgPAd7WvVKg_SlPoMAJzWJ4?usp=drive_link
+2. Extract the downloaded files
+3. Run the FlappyBird.exe file
 
 ## How to Play
 
